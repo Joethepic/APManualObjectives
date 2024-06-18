@@ -12,6 +12,22 @@
 		"category": ["Starting Checks"]
 	},
 	{
+		"name": "Starting Check 4",
+		"category": ["Starting Checks"]
+	},
+	{
+		"name": "Starting Check 5",
+		"category": ["Starting Checks"]
+	},
+	{
+		"name": "Starting Check 6",
+		"category": ["Starting Checks"]
+	},
+	{
+		"name": "Starting Check 7",
+		"category": ["Starting Checks"]
+	},
+	{
 		"name": "Count to 3 in the ap chat without getting interupted",
 		"category": ["MCC"],
 		"requires": "|Archipelago chat|"
@@ -50,7 +66,7 @@
 	{
 		"name": "Touch bedrock underground",
 		"category": ["MCC"],
-		"requires": "|Progressive tools:2|"
+		"region": "Iron"
 	},
 	{
 		"name": "Fill a composter",
@@ -65,7 +81,8 @@
 	{
 		"name": "Place a gold block on top of a tree",
 		"category": ["MCC"],
-		"requires": "|Progressive tools:2|"
+		"region": "Iron",
+		"requires": "|Progressive tools:2| AND |Progressive resource crafting:2|"
 	},
 	{
 		"name": "Be sucked underwater in a boat",
@@ -89,7 +106,12 @@
 		"requires": "|Progressive resource crafting|"
 	},
 	{
-		"name": "Obtain deepslate",
+		"name": "Obtain cobbled deepslate",
+		"category": ["Getting Items"],
+		"requires": "|Progressive tools|"
+	},
+	{
+		"name": "Obtain tuff",
 		"category": ["Getting Items"],
 		"requires": "|Progressive tools|"
 	},
@@ -118,12 +140,14 @@
 		"name": "Complete all Vanilla Advancements checks",
 		"category": ["Vanilla Advancements"],
 		"victory": true,
-		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket|"
+		"region": "Nether",
+		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Village|"
 	},
 	{
 		"name": "Complete all Vanilla Advancements checks 2",
 		"category": ["Vanilla Advancements"],
-		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Nether|"
+		"region": "Nether",
+		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Village|"
 	},
 	{
 		"name": "Collect 20 Victory Pieces",
@@ -168,7 +192,8 @@
 	},
 	{
 		"name": "Complete all getting items checks",
-		"requires": "|Ocean| AND |Ocean monument| AND |Progressive tools|",
+		"requires": "|Ocean| AND |Ocean monument|",
+		"region": "Diamonds",
 		"category": ["Getting Items"],
 		"victory": true
 	},
@@ -176,6 +201,11 @@
 		"name": "Complete all getting items checks 2",
 		"requires": "|Ocean| AND |Ocean monument| AND |Progressive tools|",
 		"category": ["Getting Items"]
+	},
+	{
+		"name": "Find a shipwreck",
+		"requires": "|Ocean|",
+		"category": ["Objectives"]
 	},
 	{
 		"name": "Complete all objectives checks",
@@ -211,12 +241,13 @@
 	{
 		"name": "Isnt it a iron pick",
 		"category": ["Vanilla Advancements"],
-		"requires": "|Progressive tools:2|"
+		"region": "Iron"
 	},
 	{
 		"name": "Shoot a firework from a crossbow",
 		"category": ["Bingosync"],
-		"requires": "|Archery| AND |Enchanting| AND |Ocean|"
+		"requires": "|Archery| AND |Enchanting| AND |Ocean|",
+		"region": "Iron"
 	},
 	{
 		"name": "Dry a sponge",
@@ -230,7 +261,8 @@
 	},
 	{
 		"name": "Kill a mob  while its on fire",
-		"category": ["Bingosync"]
+		"category": ["Bingosync"],
+		"region": "Iron"
 	},
 	{
 		"name": "16 Grass blocks",
@@ -245,7 +277,7 @@
 	},
 	{
 		"name": "Create mud with a water bottle",
-		"requires": "|Glass Bottles|",
+		"requires": "|Glass Bottles| AND |Ocean|",
 		"category": ["Bingosync"]
 	},
 	{

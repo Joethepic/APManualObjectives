@@ -5,7 +5,7 @@
 },
 	"Nether": {
 		"connects_to": [],
-		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Nether| AND |Progressive Weapons:2| AND |Ocean|"
+		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Nether| AND |Ocean|"
 	},
 	"Iron": {
 		"requires": "|Progressive tools| AND |Progressive resource crafting|",

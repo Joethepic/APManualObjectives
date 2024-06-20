@@ -141,13 +141,13 @@
 		"category": ["Vanilla Advancements"],
 		"victory": true,
 		"region": "Nether",
-		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Village|"
+		"requires": "|Village|"
 	},
 	{
 		"name": "Complete all Vanilla Advancements checks 2",
 		"category": ["Vanilla Advancements"],
 		"region": "Nether",
-		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Village|"
+		"requires": "|Village|"
 	},
 	{
 		"name": "Collect 20 Victory Pieces",
@@ -222,13 +222,15 @@
 	{
 		"name": "Complete all bingosync checks",
 		"category": ["Bingosync"],
-		"requires": "|Archery| AND |Enchanting| AND |Ocean| AND |Ocean monument| AND |Progressive resource crafting|",
+		"region": "Diamonds",
+		"requires": "|Archery| AND |Enchanting| AND |Ocean| AND |Ocean monument|",
 		"victory": true
 	},
 	{
 		"name": "Complete all bingosync checks 2",
 		"category": ["Bingosync"],
-		"requires": "|Archery| AND |Enchanting| AND |Ocean| AND |Ocean monument| AND |Progressive resource crafting|"
+		"region": "Diamonds",
+		"requires": "|Archery| AND |Enchanting| AND |Ocean| AND |Ocean monument|"
 	},
 	{
 		"name": "Use a dye on a sign",
@@ -257,7 +259,7 @@
 	{
 		"name": "Craft a clock",
 		"category": ["Bingosync", "Getting Items"],
-		"requires": "|Progressive tools:2| AND |Progressive resource crafting|"
+		"region": "Diamonds"
 	},
 	{
 		"name": "Kill a mob  while its on fire",

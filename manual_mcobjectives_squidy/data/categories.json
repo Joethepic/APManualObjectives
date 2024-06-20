@@ -1,8 +1,14 @@
 {
-    "Example Logic only category": {
-        "hidden": true
+    "Getting Items": {
+        "yaml_option": ["enable_getting_items"]
     },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
+    "Objectives": {
+        "yaml_option": ["enable_objectives"]
+    },
+    "Bingosync": {
+        "yaml_option": ["enable_bingosync"]
+    },
+    "MCC": {
+        "yaml_option": ["enable_objectives"]
     }
 }

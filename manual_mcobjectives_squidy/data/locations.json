@@ -126,7 +126,7 @@
 		"requires": "|Village|"
 	},
 	{
-		"name": "Complete all mcc checks",
+		"name": "Complete_all_mcc_checks",
 		"category": ["MCC"],
 		"victory": true,
 		"requires": "|Archipelago chat| AND |Badlands| AND |Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Ocean| AND |Ocean monument| AND |Snowy Slopes|"
@@ -137,7 +137,7 @@
 		"requires": "|Archipelago chat| AND |Badlands| AND |Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Ocean| AND |Snowy Slopes|"
 	},
 	{
-		"name": "Complete all Vanilla Advancements checks",
+		"name": "Complete_all_Vanilla_Advancements_checks",
 		"category": ["Vanilla Advancements"],
 		"victory": true,
 		"region": "Nether",
@@ -150,7 +150,7 @@
 		"requires": "|Village|"
 	},
 	{
-		"name": "Collect 20 Victory Pieces",
+		"name": "Collect_20_Victory_Pieces",
 		"category": [],
 		"victory": true,
 		"requires": "|Victory Piece:20|"
@@ -191,7 +191,7 @@
 		"requires": "|Ocean| AND |Ocean monument|"
 	},
 	{
-		"name": "Complete all getting items checks",
+		"name": "Complete_all_getting_items_checks",
 		"requires": "|Ocean| AND |Ocean monument|",
 		"region": "Diamonds",
 		"category": ["Getting Items"],
@@ -208,7 +208,7 @@
 		"category": ["Objectives"]
 	},
 	{
-		"name": "Complete all objectives checks",
+		"name": "Complete_all_objectives_checks",
 		"requires": "|Ocean| AND |Progressive armor:2| AND |Progressive tools:3| AND |Ocean| AND |Enchanting|",
 		"category": ["Objectives"],
 		"region": "Brewing",
@@ -220,7 +220,7 @@
 		"category": ["Objectives"]
 	},
 	{
-		"name": "Complete all bingosync checks",
+		"name": "Complete_all_bingosync_checks",
 		"category": ["Bingosync"],
 		"region": "Diamonds",
 		"requires": "|Archery| AND |Enchanting| AND |Ocean| AND |Ocean monument|",

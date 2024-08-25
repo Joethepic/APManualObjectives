@@ -1,0 +1,513 @@
+[
+	{
+		"name": "Starting check 1",
+		"category": ["Starting Checks"]
+	},
+	{
+		"name": "Starting check 2",
+		"category": ["Starting Checks"]
+	},
+	{
+		"name": "Starting check 3",
+		"category": ["Starting Checks"]
+	},
+	{
+		"name": "Count to 3 in the ap chat without getting interupted",
+		"category": ["MCC"],
+		"requires": "|Archipelago chat|"
+	},
+	{
+		"name": "Use a crafting table",
+		"category": ["Vanilla Advancements"],
+		"requires": []
+	},
+	{
+		"name": "Eat a cookie",
+		"category": ["MCC"],
+		"requires": "|Village|"
+	},
+	{
+		"name": "Use a furnance",
+		"category": ["Vanilla Advancements"],
+		"requires": "|Progressive resource crafting|"
+	},
+	{
+		"name": "tahc ogalepihcra eht ni eman ruoy epyt",
+		"category": ["MCC"],
+		"requires": "|Archipelago chat|"
+	},
+	{
+		"name": "Enchant a diamond gear",
+		"region": "Bucket",
+		"category": ["Objectives"],
+		"requires": "|Progressive armor:2| AND |Progressive tools:3| AND |Enchanting| AND |Ocean|"
+	},
+	{
+		"name": "Sit in a boat",
+		"category": ["MCC"],
+		"requires": []
+	},
+	{
+		"name": "Touch bedrock underground",
+		"category": ["MCC"],
+		"region": "Iron"
+	},
+	{
+		"name": "Touch bedrock wall",
+		"category": ["Objectives"]
+	},
+	{
+		"name": "Fill a composter",
+		"category": ["MCC"],
+		"requires": []
+	},
+	{
+		"name": "Freeze in powdered snow",
+		"category": ["MCC"],
+		"requires": "|Snowy Slopes|"
+	},
+	{
+		"name": "Place a gold block on top of a tree",
+		"category": ["MCC"],
+		"region": "Iron",
+		"requires": "|Progressive tools:2| AND |Progressive resource crafting:2|"
+	},
+	{
+		"name": "Be sucked underwater in a boat",
+		"category": ["MCC"],
+		"requires": "|Ocean|"
+	},
+	{
+		"name": "Drink milk",
+		"region": "Bucket",
+		"category": ["MCC"],
+		"requires": []
+	},
+	{
+		"name": "Reach build height",
+		"category": ["MCC"],
+		"requires": []
+	},
+	{
+		"name": "Smash 10 glass panes",
+		"category": ["MCC"],
+		"requires": "|Progressive resource crafting|"
+	},
+	{
+		"name": "Obtain cobbled deepslate",
+		"category": ["Getting Items"],
+		"requires": "|Progressive tools|"
+	},
+	{
+		"name": "Obtain tuff",
+		"category": ["Getting Items"],
+		"requires": "|Progressive tools|"
+	},
+	{
+		"name": "Obtain red sand",
+		"category": ["MCC"],
+		"requires": "|Badlands|"
+	},
+	{
+		"name": "Trade with a villager",
+		"category": ["Vanilla Advancements"],
+		"requires": "|Village|"
+	},
+	{
+		"name": "Complete all mcc checks",
+		"category": ["MCC"],
+		"victory": true,
+		"requires": "|Archipelago chat| AND |Badlands| AND |Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Ocean| AND |Ocean monument| AND |Snowy Slopes| AND |Archery|"
+	},
+	{
+		"name": "Complete all mcc checks 2",
+		"category": ["MCC"],
+		"requires": "|Archipelago chat| AND |Badlands| AND |Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Ocean| AND |Ocean monument| AND |Snowy Slopes| AND |Village| AND |Archery|"
+	},
+	{
+		"name": "Complete all Vanilla Advancements checks",
+		"category": ["Vanilla Advancements"],
+		"victory": true,
+		"region": "Nether",
+		"requires": "|Village| and |Ocean| and |Archery|"
+	},
+	{
+		"name": "Complete all Vanilla Advancements checks 2",
+		"category": ["Vanilla Advancements"],
+		"region": "Nether",
+		"requires": "|Village| and |Ocean| and |Archery|"
+	},
+	{
+		"name": "Collect 20 Victory Pieces",
+		"category": [],
+		"victory": true,
+		"requires": "|Victory Piece:20|"
+	},
+	{
+		"name": "Collect 20 Victory Pieces 2",
+		"category": [],
+		"requires": "|Victory Piece:20|"
+	},
+	{
+		"name": "Obtain a turtle shell",
+		"category": ["Getting Items"],
+		"requires": "|Ocean|"
+	},
+	{
+		"name": "Type this location name into the archipelago chat",
+		"category": ["Objectives"],
+		"requires": "|Archipelago chat|"
+	},
+	{
+		"name": "Enter the nether 1",
+		"category": ["Vanilla Advancements"],
+		"region": "Nether"
+	},
+	{
+		"name": "Enter the nether 2",
+		"category": ["Vanilla Advancements"],
+		"region": "Nether"
+	},
+	{
+		"name": "Obtain a wet sponge",
+		"requires": "|Ocean| AND |Ocean monument|",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Minning fatigue you must get",
+		"category": ["MCC"],
+		"requires": "|Ocean| AND |Ocean monument|"
+	},
+	{
+		"name": "Complete all getting items checks",
+		"requires": "|Ocean monument| AND |Ancient City| AND |Bucket| AND |Nether|",
+		"region": "Enchanting",
+		"category": ["Getting Items"],
+		"victory": true
+	},
+	{
+		"name": "Complete all getting items checks 2",
+		"requires": "|Ocean monument| AND |Ancient City| AND |Bucket| AND |Nether|",
+		"region": "Enchanting",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Find a shipwreck",
+		"requires": "|Ocean|",
+		"category": ["Objectives"]
+	},
+	{
+		"name": "Complete all objectives checks",
+		"requires": "|Ocean| AND |Progressive armor:2| AND |Progressive tools:3| AND |Progressive resource crafting| and |Bucket| AND |Nether| AND |Ocean| AND |Enchanting| AND |Village| AND |Archery| AND |Ancient City| AND |Archipelago chat|",
+		"category": ["Objectives"],
+		"region": "Brewing",
+		"victory": true
+	},
+	{
+		"name": "Complete all objectives checks 2",
+		"requires": "|Ocean| AND |Progressive armor:2| AND |Progressive tools:3| AND |Progressive resource crafting| and |Bucket| AND |Nether| AND |Ocean| AND |Enchanting| AND |Village| AND |Archery| AND |Ancient City| AND |Archipelago chat|",
+		"category": ["Objectives"],
+		"region": "Brewing"
+	},
+	{
+		"name": "Complete all bingosync checks",
+		"category": ["Bingosync"],
+		"region": "Enchanting",
+		"requires": "|Archery| AND |Ocean monument| AND |Bucket| and |Nether|",
+		"victory": true
+	},
+	{
+		"name": "Complete all bingosync checks 2",
+		"category": ["Bingosync"],
+		"region": "Enchanting",
+		"requires": "|Archery| AND |Ocean monument| AND |Bucket| and |Nether|"
+	},
+	{
+		"name": "Use a dye on a sign",
+		"category": ["MCC", "Bingosync"]
+	},
+	{
+		"name": "Kill a mob with fall damage",
+		"category": ["Bingosync"]
+	},
+	{
+		"name": "Isnt it a iron pick",
+		"category": ["Vanilla Advancements"],
+		"requires": "|Progressive tools:2| AND |Progressive resource crafting|"
+	},
+	{
+		"name": "Shoot a firework from a crossbow",
+		"category": ["Bingosync"],
+		"requires": "|Archery| AND |Enchanting| AND |Ocean|",
+		"region": "Iron"
+	},
+	{
+		"name": "Dry a sponge",
+		"category": ["Bingosync"],
+		"requires": "|Ocean| AND |Ocean monument| AND |Progressive resource crafting|"
+	},
+	{
+		"name": "Craft a clock",
+		"category": ["Bingosync", "Getting Items"],
+		"region": "Diamonds"
+	},
+	{
+		"name": "Kill a mob  while its on fire",
+		"category": ["Bingosync"],
+		"region": "Iron"
+	},
+	{
+		"name": "16 Grass blocks",
+		"category": ["Bingosync", "Getting Items"],
+		"region": "Enchanting"
+	},
+	{
+		"name": "Brew a potion",
+		"category": ["Objectives"],
+		"region": "Brewing"
+	},
+	{
+		"name": "Create mud with a water bottle",
+		"requires": "|Glass Bottles| AND |Ocean| and |Progressive resource crafting|",
+		"category": ["Bingosync"]
+	},
+	{
+		"name": "Play a disc in a jukebox",
+		"region": "Diamonds",
+		"requires": "|Music Disc|",
+		"category": ["MCC"]
+	},
+	{
+		"name": "Kill a Creeper",
+		"category": ["Objectives", "Bingosync"]
+	},
+	{
+		"name": "Kill a Zombie",
+		"category": ["Objectives", "Bingosync"]
+	},
+	{
+		"name": "Kill a Spider",
+		"category": ["Objectives", "Bingosync"]
+	},
+	{
+		"name": "Kill a Skeleton",
+		"category": ["Objectives", "Bingosync"]
+	},
+	{
+		"name": "Kill a Guardian",
+		"requires": "|Ocean| AND |Ocean monument|",
+		"category": ["Objectives", "Bingosync"]
+	},
+	{
+		"name": "Husbandry",
+		"category": ["Vanilla Advancements"]
+	},
+	{
+		"name": "Parrots and the bats",
+		"category": ["Vanilla Advancements"]
+	},
+	{
+		"name": "Craft a redstone repeater",
+		"region": "Diamonds",
+		"category": ["Bingosync", "Getting Items"]
+	},
+	{
+		"name": "Shoot a target block",
+		"requires": "|Archery| AND |Village|",
+		"region": "Diamonds",
+		"category": ["MCC", "Objectives"]
+	},
+	{
+		"name": "Obtain a sculk sensor",
+		"requires": "|Ancient City|",
+		"region": "Enchanting",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Die to a warden",
+		"requires": "|Ancient City|",
+		"category": ["Objectives", "Death Conditions"]
+	},
+	{
+		"name": "Craft a painting",
+		"category": ["Getting Items", "Bingosync"]
+	},
+	{
+		"name": "Craft all gold tools and weapons",
+		"category": ["Getting Items"],
+		"region": "Diamonds"
+	},
+	{
+		"name": "Wear a full set of gold armor",
+		"category": ["Objectives", "MCC"],
+		"region": "Diamonds"
+	},
+	{
+		"name": "Eat a spider eye",
+		"category": ["Objectives", "Bingosync"]
+	},
+	{
+		"name": "Craft a observer",
+		"category": ["Getting Items", "Bingosync"],
+		"region": "Nether"
+	},
+	{
+		"name": "Craft 10 slabs",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft 25 slabs",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft 50 slabs",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Get 5 deaths",
+		"category": ["Objectives", "Death Conditions"]
+	},
+	{
+		"name": "Die by Drowning",
+		"category": ["Objectives", "Death Conditions"],
+		"requires": "|Ocean|"
+	},
+	{
+		"name": "Die from sand or gravel",
+		"category": ["Objectives", "Death Conditions"]
+	},
+	{
+		"name": "Throw 64 items into lava",
+		"requires": "|Progressive tools|",
+		"category": ["Objectives"]
+	},
+	{
+		"name": "Eat rotten flesh",
+		"category": ["Objectives"]
+	},
+	{
+		"name": "Die from fire",
+		"region": "Iron",
+		"category": ["Objectives", "Death Conditions"]
+	},
+	{
+		"name": "Die from a bed explosion",
+		"region": "Nether",
+		"category": ["Objectives", "Death Conditions"]
+	},
+	{
+		"name": "Ring a bell 5 times",
+		"requires": "|Village|",
+		"category": ["Objectives"]
+	},
+	{
+		"name": "Get distance climbed to 20m",
+		"category": ["Objectives"]
+	},
+	{
+		"name": "Craft a white bed",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft a orange bed",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft a magenta bed",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft a light blue bed",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft a yellow bed",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft a lime bed",
+		"category": ["Getting Items"],
+		"requires": "|Ocean| or |Village|"
+	},
+	{
+		"name": "Craft a pink bed",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft a grey bed",
+		"category": ["Getting Items"],
+		"requires": "|Ocean| or |Village|"
+	},
+	{
+		"name": "Craft a light grey bed",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft a cyan bed",
+		"category": ["Getting Items"],
+		"requires": "|Ocean| or |Village|"
+	},
+	{
+		"name": "Craft a purple bed",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft a blue bed",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft a brown bed",
+		"category": ["Getting Items"],
+		"requires": "|Village|"
+	},
+	{
+		"name": "Craft a green bed",
+		"category": ["Getting Items"],
+		"requires": "(|Ocean| and |Progressive resource crafting|) or |Village|"
+	},
+	{
+		"name": "Craft a red bed",
+		"category": ["Getting Items"]
+	},
+	{
+		"name": "Craft a black bed",
+		"category": ["Getting Items"],
+		"requires": "|Ocean| or |Village|"
+	},
+	{
+		"name": "Craft all beds",
+		"category": ["Getting Items"],
+		"requires": "(|Ocean| and |Progressive resource crafting|) or |Village|"
+	},
+	{
+		"name": "Spawn a chicken from a egg",
+		"category": ["Objectives", "Bingosync"]
+	},
+	{
+		"name": "Put a axolotl in a bucket",
+		"category": ["Bingosync", "Vanilla Advancements"],
+		"requires": "|Ocean|",
+		"region": "Bucket"
+	},
+	{
+		"name": "Take Aim",
+		"category": ["Vanilla Advancements"],
+		"requires": "|Archery|"
+	},
+	{
+		"name": "Ride a strider",
+		"region": "Nether",
+		"category": ["Vanilla Advancements"]
+	},
+	{
+		"name": "Craft a warped fungus on a stick",
+		"region": "Nether",
+		"category": ["Objectives"]
+	},
+	{
+		"name": "Get the glowing effect",
+		"region": "Nether",
+		"requires": "|Progressive tools:2|",
+		"category": ["Bingosync"]
+	}
+]

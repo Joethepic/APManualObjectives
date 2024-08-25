@@ -1,0 +1,23 @@
+{
+	"Bucket": 	{
+		"connects_to": [],
+		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket|"
+},
+	"Nether": {
+		"connects_to": [],
+		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Nether| AND |Ocean|"
+	},
+	"Iron": {
+		"requires": "|Progressive tools| AND |Progressive resource crafting|",
+		"connects_to": []
+	},
+	"Brewing": {
+		"requires": "|Progressive tools:2| AND |Progressive resource crafting| AND |Bucket| AND |Nether| AND |Brewing| AND |Glass Bottles| and |Nether Fortress|"
+	},
+	"Diamonds": {
+		"requires": "|Progressive tools:2| AND |Progressive resource crafting|"
+	},
+	"Enchanting": {
+		"requires": "|Progressive tools:3| AND |Progressive resource crafting| AND |Enchanting| AND |Ocean| AND |Bucket|"
+	}
+}

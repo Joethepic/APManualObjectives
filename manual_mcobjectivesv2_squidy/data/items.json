@@ -1,0 +1,111 @@
+[
+	{
+		"count": "4",
+		"name": "Progressive tools",
+		"category": ["Recipes"],
+		"progression": true
+	},
+	{
+		"count": "4",
+		"name": "Progressive Weapons",
+		"category": ["Recipes"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Progressive resource crafting",
+		"category": ["Recipes"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Archipelago chat",
+		"category": ["Other"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bucket",
+		"category": ["Recipes"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Progressive armor",
+		"category": ["Recipes"],
+		"progression": true
+	},
+	{
+		"name": "Nether",
+		"category": ["Dimensions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ocean",
+		"category": ["Biomes"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Badlands",
+		"category": ["Biomes"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Snowy Slopes",
+		"category": ["Biomes"],
+		"progression": true
+	},
+	{
+		"count": 30,
+		"name": "Victory Piece",
+		"progression_skip_balancing": true
+	},
+	{
+		"name": "Ocean monument",
+		"progression": true,
+		"category": ["Structures"]
+	},
+	{
+		"name": "Village",
+		"progression": true,
+		"category": ["Structures"]
+	},
+	{
+		"name": "Nether Fortress",
+		"progression": true,
+		"category": ["Structures"]
+	},
+	{
+		"name": "Ancient City",
+		"progression": true,
+		"category": ["Structures"]
+	},
+	{
+		"name": "Archery",
+		"progression": true,
+		"category": ["Recipes"]
+	},
+	{
+		"name": "Enchanting",
+		"progression": true,
+		"category": ["Recipes"]
+	},
+	{
+		"name": "Brewing",
+		"progression": true,
+		"category": ["Recipes"]
+	},
+	{
+		"name": "Glass Bottles",
+		"progression": true,
+		"category": ["Recipes"]
+	},
+	{
+		"name": "Music Disc",
+		"progression": true,
+		"category": ["MCC", "Items"]
+	}
+]

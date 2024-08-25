@@ -1,0 +1,17 @@
+{
+    "Getting Items": {
+        "yaml_option": ["enable_getting_items"]
+    },
+    "Objectives": {
+        "yaml_option": ["enable_objectives"]
+    },
+    "Bingosync": {
+        "yaml_option": ["enable_bingosync"]
+    },
+    "MCC": {
+        "yaml_option": ["enable_objectives"]
+    },
+    "Death Conditions": {
+        "yaml_option": ["enable_death_conditions"]
+    }
+}
